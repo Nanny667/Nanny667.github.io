@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>博客名</title>
+  <title>来颗橘子</title>
   
-  <subtitle>副标题</subtitle>
+  <subtitle>我阳光且有趣 阴暗又博爱</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>作者名</name>
+    <name>Lian Zetao</name>
     
   </author>
   
