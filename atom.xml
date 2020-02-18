@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>来颗橘子</title>
   
-  <subtitle>谢谢你这么帅、这么漂亮还来看我的博客，希望在这里的分享可以帮到你们~另外首次搜索需要加载3~5秒哦</subtitle>
+  <subtitle>双木非林，田下有心   ——顾城</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-17T14:52:22.653Z</updated>
+  <updated>2020-02-18T13:06:46.377Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,17 +17,211 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Webstorm常见的便捷键说明</title>
-    <link href="http://yoursite.com/2020/02/17/Webstorm%E5%B8%B8%E8%A7%81%E7%9A%84%E4%BE%BF%E6%8D%B7%E9%94%AE%E8%AF%B4%E6%98%8E/"/>
-    <id>http://yoursite.com/2020/02/17/Webstorm%E5%B8%B8%E8%A7%81%E7%9A%84%E4%BE%BF%E6%8D%B7%E9%94%AE%E8%AF%B4%E6%98%8E/</id>
-    <published>2020-02-17T12:23:28.000Z</published>
-    <updated>2020-02-17T14:52:22.653Z</updated>
+    <title>HTML之表单详解</title>
+    <link href="http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E8%A1%A8%E5%8D%95%E8%AF%A6%E8%A7%A3/"/>
+    <id>http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E8%A1%A8%E5%8D%95%E8%AF%A6%E8%A7%A3/</id>
+    <published>2020-02-18T12:26:39.000Z</published>
+    <updated>2020-02-18T13:06:46.377Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Webstorm常见的便捷键说明"><a href="#Webstorm常见的便捷键说明" class="headerlink" title="Webstorm常见的便捷键说明"></a>Webstorm常见的便捷键说明</h1><h3 id="一、快速打出标签"><a href="#一、快速打出标签" class="headerlink" title="一、快速打出标签"></a>一、快速打出标签</h3><p>例如：输入h1，再按tab键就立马出来完整标签。</p><h3 id="二、创建一个新的-html文件"><a href="#二、创建一个新的-html文件" class="headerlink" title="二、创建一个新的.html文件"></a>二、创建一个新的.html文件</h3><p>ctrl + alt + insert</p><a id="more"></a><h3 id="三、让光标移动到当前行的末尾以及最前面"><a href="#三、让光标移动到当前行的末尾以及最前面" class="headerlink" title="三、让光标移动到当前行的末尾以及最前面"></a>三、让光标移动到当前行的末尾以及最前面</h3><blockquote><p>末尾：End                      </p><blockquote><p>最前面：Home</p></blockquote></blockquote><h3 id="四、让光标在多行中闪烁"><a href="#四、让光标在多行中闪烁" class="headerlink" title="四、让光标在多行中闪烁"></a>四、让光标在多行中闪烁</h3><p>按住Alt不放，然后再按鼠标左键不放，再拖动鼠标即可。</p><h3 id="五、快速复制光标所在的那一行或者删除"><a href="#五、快速复制光标所在的那一行或者删除" class="headerlink" title="五、快速复制光标所在的那一行或者删除"></a>五、快速复制光标所在的那一行或者删除</h3><blockquote><p>复制：ctrl + d</p><blockquote><p>删除：ctrl + x</p></blockquote></blockquote><h3 id="六、让标签包裹一段内容，也就是自动在一段内容前后加上标签"><a href="#六、让标签包裹一段内容，也就是自动在一段内容前后加上标签" class="headerlink" title="六、让标签包裹一段内容，也就是自动在一段内容前后加上标签"></a>六、让标签包裹一段内容，也就是自动在一段内容前后加上标签</h3><p>ctrl + alt + t，然后回车，最后输入对应的标签即可。</p><h3 id="七、快速移动选中的代码，上下移动"><a href="#七、快速移动选中的代码，上下移动" class="headerlink" title="七、快速移动选中的代码，上下移动"></a>七、快速移动选中的代码，上下移动</h3><p>往上移动：ctrl + shift + （向上箭头）</p><p>往下移动：ctrl + shift + （向下箭头）</p><h3 id="八、快速合并和展开代码（合并和展开的是某一标签）"><a href="#八、快速合并和展开代码（合并和展开的是某一标签）" class="headerlink" title="八、快速合并和展开代码（合并和展开的是某一标签）"></a>八、快速合并和展开代码（合并和展开的是某一标签）</h3><p>合并：ctrl + ‘-’    </p><p>展开：ctrl + ‘+’</p><h3 id="九、快速合并和展开代码（合并和展开的是选中的所有标签）"><a href="#九、快速合并和展开代码（合并和展开的是选中的所有标签）" class="headerlink" title="九、快速合并和展开代码（合并和展开的是选中的所有标签）"></a>九、快速合并和展开代码（合并和展开的是选中的所有标签）</h3><p>合并：ctrl + shift + ‘-’    </p><p>展开：ctrl + shift + ‘+’</p><h3 id="十、快速新起一行"><a href="#十、快速新起一行" class="headerlink" title="十、快速新起一行"></a>十、快速新起一行</h3><p>shift + enter</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="HTML之表单详解"><a href="#HTML之表单详解" class="headerlink" title="HTML之表单详解"></a>HTML之表单详解</h1><p><strong>表单：</strong>专门用来收集用户信息的。</p><p><strong>表单标签</strong>（即元素/标记）：比较特殊，有特殊的外观和默认的功能。</p><p><em>表单的格式：</em></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">form</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">表单元素</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">form</span>&gt;</span></span><br></pre></td></tr></table></figure><h3 id="常见的表单元素："><a href="#常见的表单元素：" class="headerlink" title="常见的表单元素："></a>常见的表单元素：</h3><p><u>input标签：</u>它有一个type属性，这个属性有很多类型的取值，取值的不同就决定了input标签的功能和外观。</p><ol><li>明文输入框：</li></ol><p>内容：<code>&lt;input type=&quot;text&quot;&gt;</code></p><ol start="2"><li>暗文输入框：</li></ol><p>内容：<code>&lt;input type=&quot;password&quot;&gt;</code></p><ol start="3"><li>给输入框设置默认值：</li></ol><p>内容：<code>&lt;input type=&quot;text&quot; value=&quot;123&quot;&gt;</code></p><ol start="4"><li>单选框：</li></ol><p>a.默认情况下单选框不会互斥，要想单选框互斥，那么必须给每一个单选框设置一个name属性，然后name属性还必须设置相同的值。</p><p>b.要想让单选框默认选中某一个框子，可以给input标签添加一个checked属性。</p><p>内容：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"radio"</span> <span class="attr">name</span>=<span class="string">"gender"</span> <span class="attr">checked</span>=<span class="string">"checked"</span>&gt;</span>内容1</span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"radio"</span> <span class="attr">name</span>=<span class="string">"gender"</span>&gt;</span>内容2</span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"radio"</span> <span class="attr">name</span>=<span class="string">"gender"</span>&gt;</span>内容3</span><br></pre></td></tr></table></figure><p><strong>小小理解：</strong>radio是收音机的意思，收音机永远只有一个按键被按下，其它弹起。</p><ol start="5"><li>多选框：</li></ol><p>内容：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"checkbox"</span>&gt;</span>内容1</span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"checkbox"</span>&gt;</span>内容2</span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"checkbox"</span>&gt;</span>内容3</span><br></pre></td></tr></table></figure><ol start="6"><li>按钮：定义一个普通按钮，配合js完成一些简单操作。value属性指定按钮标题。</li></ol><p><code>&lt;input type=&quot;button&quot; value=&quot;我是按钮&quot;&gt;</code></p><p>想要好看的按钮，就要用图片来定义按钮。</p><p><code>&lt;input type=&quot;image&quot; src=&quot;&quot;&gt;</code></p><p><strong>重置按钮：</strong>reset，有默认指定标题为“重置”，如果不想默认，也可以通过value属性来修改标题。</p><p>作用：用来清空表单中的数据。</p><p>内容：<code>&lt;input type=&quot;reset&quot; value=&quot;&quot;&gt;</code></p><p><strong>提交按钮：</strong>submit，也有默认标题。  </p><p>作用：将表单中的数据提交到远程服务器。</p><p>内容：<code>&lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;</code></p><p><strong>注意点：</strong>要想把表单中的数据提交到远程服务器，必须满足两个条件。</p><p>a、告诉表单需要提交到哪个服务器，form标签中的action属性可以告诉表单提交到哪个服务器。</p><p>b、告诉表单，表单中的哪些数据需要提交，添加name属性即可。</p><p><strong>隐藏域：</strong>用于悄悄咪咪收集用户的一些数据，它是不会出现在界面中的。</p><p>内容：<code>&lt;input type=&quot;hidden&quot; name=&quot;cc&quot; value=&quot;it666&quot;&gt;</code></p><p> 一点击提交按钮，地址栏中就会出现cc=it666。</p><ol start="7"><li>默认情况下文字和输入框是没有关联的，也就是说点击文字输入框不会聚焦，如果想点击文字时让对应的输入框聚焦，那么就需要让文字和输入框进行绑定。则使用<strong>label标签</strong>。</li></ol><p>如何使用？</p><p>第一步，给文字加label标签。</p><p>第二步，给对应输入框添加id属性。</p><p>第三步，给label标签添加for属性，属性值跟对应的id值一样，实现绑定。</p><p><em>例子：</em></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">label</span> <span class="attr">for</span>=<span class="string">"aa"</span>&gt;</span>内容：<span class="tag">&lt;/<span class="name">label</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"text"</span> <span class="attr">id</span>=<span class="string">"aa"</span>&gt;</span></span><br></pre></td></tr></table></figure><p>还有一个更简单的方式：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">label</span>&gt;</span></span><br><span class="line">内容：<span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"text"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">label</span>&gt;</span></span><br></pre></td></tr></table></figure><p>但是它具有局限性，不能随机绑定任何输入框。</p><ol start="8"><li>datalist标签：给输入框绑定待定项。（仅作了解，因为很多浏览器不支持它。）</li></ol><p><em>例子：</em></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">内容：<span class="tag">&lt;<span class="name">input</span> <span class="attr">type</span>=<span class="string">"text"</span> <span class="attr">list</span>=<span class="string">"cars"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">datalist</span> <span class="attr">id</span>=<span class="string">"cars"</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">option</span>&gt;</span>宝马<span class="tag">&lt;/<span class="name">option</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">option</span>&gt;</span>奔驰<span class="tag">&lt;/<span class="name">option</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">option</span>&gt;</span>路虎<span class="tag">&lt;/<span class="name">option</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">datalist</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Webstorm常见的便捷键说明&quot;&gt;&lt;a href=&quot;#Webstorm常见的便捷键说明&quot; class=&quot;headerlink&quot; title=&quot;Webstorm常见的便捷键说明&quot;&gt;&lt;/a&gt;Webstorm常见的便捷键说明&lt;/h1&gt;&lt;h3 id=&quot;一、快速打出标签&quot;&gt;&lt;a href=&quot;#一、快速打出标签&quot; class=&quot;headerlink&quot; title=&quot;一、快速打出标签&quot;&gt;&lt;/a&gt;一、快速打出标签&lt;/h3&gt;&lt;p&gt;例如：输入h1，再按tab键就立马出来完整标签。&lt;/p&gt;
+      
+      
+        &lt;h1 id=&quot;HTML之表单详解&quot;&gt;&lt;a href=&quot;#HTML之表单详解&quot; class=&quot;headerlink&quot; title=&quot;HTML之表单详解&quot;&gt;&lt;/a&gt;HTML之表单详解&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;表单：&lt;/strong&gt;专门用来收集用户信息的。&lt;/p&gt;
+&lt;p&gt;&lt;s
+      
+    
+    </summary>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/categories/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="表单" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/%E8%A1%A8%E5%8D%95/"/>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/tags/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="表单" scheme="http://yoursite.com/tags/%E8%A1%A8%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML之表格标签</title>
+    <link href="http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E8%A1%A8%E6%A0%BC%E6%A0%87%E7%AD%BE/"/>
+    <id>http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E8%A1%A8%E6%A0%BC%E6%A0%87%E7%AD%BE/</id>
+    <published>2020-02-18T09:56:06.000Z</published>
+    <updated>2020-02-18T12:24:51.456Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="HTML之表格标签"><a href="#HTML之表格标签" class="headerlink" title="HTML之表格标签"></a>HTML之表格标签</h2><h3 id="格式："><a href="#格式：" class="headerlink" title="格式："></a>格式：</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span>    //整个表格</span><br><span class="line"><span class="tag">&lt;<span class="name">tr</span>&gt;</span>         //表格中的一行</span><br><span class="line"><span class="tag">&lt;<span class="name">td</span>&gt;</span>需要显示的内容<span class="tag">&lt;/<span class="name">td</span>&gt;</span>     //一个单元格</span><br><span class="line"><span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br></pre></td></tr></table></figure><a id="more"></a><h3 id="表格标签的属性："><a href="#表格标签的属性：" class="headerlink" title="表格标签的属性："></a>表格标签的属性：</h3><ul><li><p>边框属性：border，这个属性决定了边框的高度，默认情况下这个属性的值为0，所以看不到边框。</p></li><li><p>宽度和高度的属性：可以给table标签和td标签使用。</p><p>1、表格的宽度和高度默认是按照内容的尺寸来调整的。</p><p>2、如果给td标签设置width/height属性，会修改当前单元格的宽高，并不会影响整个表格的宽高。</p></li><li><p>水平对齐（align）和垂直对齐（valign——“top/center/bottom”）的属性：其中水平对齐可以给table标签和tr标签和td标签使用，垂直对齐只能给tr和td标签使用。</p><p>1、给table标签设置align属性，可以控制表格在水平方向的对齐方式。</p><p>2、给tr标签设置align属性，可以控制当前行中所有单元格内容的对齐方式。</p><p>3、给td标签设置align属性，可以控制当前单元格中内容在水平方向的对齐方式。</p></li></ul><p><em>注意点：</em>如果td中设置了align属性，tr中也设置了align属性，那么单元格中的内容会按照td中设置的来对齐。</p><ul><li><p>外边距和内边距的属性：只能给table标签使用。</p><p>1、外边距就是单元格和单元格之间的距离。默认是cellspacing=”2”。</p><p>2、内边距就是单元格的边框和文字之间的间隙。默认是cellpadding=”1”</p></li><li><p>背景颜色（bgcolor）的属性：table/tr/td标签都可。</p></li></ul><h2 id="关于表格还有其他标签："><a href="#关于表格还有其他标签：" class="headerlink" title="关于表格还有其他标签："></a>关于表格还有其他标签：</h2><p>1、表格标题：caption 是写在表格标签里面的，属于表格标签的一部分。</p><p>例子：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">caption</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">h2</span>&gt;</span>表格标题<span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">caption</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">td</span>&gt;</span><span class="tag">&lt;/<span class="name">td</span>&gt;</span></span><br><span class="line">......</span><br><span class="line"><span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br></pre></td></tr></table></figure><p>2、标题单元格（表头）：th标签，每一列的标题。  </p><p>作用：自动居中+文字加粗。一般把第一行的所有td都换成th。</p><p><strong>表格中的存储的数据分为四类：</strong></p><p>a.表格的标题   b.表格的表头信息   c.表格的主体信息   d.表格的页尾信息</p><p><em>表格的完整结构表示：</em>（企业开发中不需要这么写，仅作了解。）</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">caption</span>&gt;</span>表格的标题<span class="tag">&lt;/<span class="name">caption</span>&gt;</span>     ——表格的标题</span><br><span class="line"><span class="tag">&lt;<span class="name">thead</span>&gt;</span>              ——表格的表头信息</span><br><span class="line"><span class="tag">&lt;<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">th</span>&gt;</span>每一列的标题<span class="tag">&lt;/<span class="name">th</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">thead</span>&gt;</span>       ——表格的主体信息</span><br><span class="line"><span class="tag">&lt;<span class="name">tbody</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">td</span>&gt;</span>数据<span class="tag">&lt;/<span class="name">td</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">tbody</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">tfoot</span>&gt;</span>       ——表格的页尾信息</span><br><span class="line"><span class="tag">&lt;<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">td</span>&gt;</span>数据<span class="tag">&lt;/<span class="name">td</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">tfoot</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br></pre></td></tr></table></figure><p><strong>注意点：</strong></p><p>如果我们没有编写tbody，系统会自动给我们添加tbody。</p><p>如果指定了thead和tfoot，那么在修改整个表格的高度时，thead和tfoot有自己默认的高度，不会随<br>着表格的高度变化而变化。</p><h2 id="单元格合并："><a href="#单元格合并：" class="headerlink" title="单元格合并："></a>单元格合并：</h2><p>1、水平方向上的合并：colspan</p><p><code>&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;</code></p><p>2、垂直方向上的合并：rowspan</p><p><code>&lt;td rowspan=&quot;2&quot;&gt;&lt;/td&gt;</code></p><p>如何理解呢?</p><p>“2”，指的是把当前单元格当做两个单元格来对待。   </p><p><strong>注意：</strong>永远向后或者向下合并，记得删除多余的单元格。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;HTML之表格标签&quot;&gt;&lt;a href=&quot;#HTML之表格标签&quot; class=&quot;headerlink&quot; title=&quot;HTML之表格标签&quot;&gt;&lt;/a&gt;HTML之表格标签&lt;/h2&gt;&lt;h3 id=&quot;格式：&quot;&gt;&lt;a href=&quot;#格式：&quot; class=&quot;headerlink&quot; title=&quot;格式：&quot;&gt;&lt;/a&gt;格式：&lt;/h3&gt;&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;table&lt;/span&gt;&amp;gt;&lt;/span&gt;    //整个表格&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;tr&lt;/span&gt;&amp;gt;&lt;/span&gt;         //表格中的一行&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;需要显示的内容&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;td&lt;/span&gt;&amp;gt;&lt;/span&gt;     //一个单元格&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;tr&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;name&quot;&gt;table&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/categories/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="表格标签" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/%E8%A1%A8%E6%A0%BC%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="单元格合并" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/%E8%A1%A8%E6%A0%BC%E6%A0%87%E7%AD%BE/%E5%8D%95%E5%85%83%E6%A0%BC%E5%90%88%E5%B9%B6/"/>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/tags/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="表格标签" scheme="http://yoursite.com/tags/%E8%A1%A8%E6%A0%BC%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="单元格合并" scheme="http://yoursite.com/tags/%E5%8D%95%E5%85%83%E6%A0%BC%E5%90%88%E5%B9%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML之列表标签</title>
+    <link href="http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E5%88%97%E8%A1%A8%E6%A0%87%E7%AD%BE/"/>
+    <id>http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E5%88%97%E8%A1%A8%E6%A0%87%E7%AD%BE/</id>
+    <published>2020-02-18T09:34:30.000Z</published>
+    <updated>2020-02-18T09:50:29.969Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HTML之列表标签"><a href="#HTML之列表标签" class="headerlink" title="HTML之列表标签"></a>HTML之列表标签</h1><h2 id="列表标签的分类"><a href="#列表标签的分类" class="headerlink" title="列表标签的分类"></a>列表标签的分类</h2><h3 id="一、无序列表（用得最多）（unordered-list）"><a href="#一、无序列表（用得最多）（unordered-list）" class="headerlink" title="一、无序列表（用得最多）（unordered list）"></a>一、无序列表（用得最多）（unordered list）</h3><p>用于一堆数据没有先后之分的情况下，自带小黑点。</p><a id="more"></a><p><em>格式：</em></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">ul</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span>需要显示的条目内容<span class="tag">&lt;/<span class="name">li</span>&gt;</span>    （list item英文名的缩写）</span><br><span class="line"><span class="tag">&lt;/<span class="name">ul</span>&gt;</span></span><br></pre></td></tr></table></figure><p>应用场景：新闻列表、商品列表（图文）、导航条。</p><h3 id="二、有序列表（用得最少）（ordered-list）"><a href="#二、有序列表（用得最少）（ordered-list）" class="headerlink" title="二、有序列表（用得最少）（ordered list）"></a>二、有序列表（用得最少）（ordered list）</h3><p>123456…..数据有先后之分。</p><p><em>格式：</em></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">ol</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">li</span>&gt;</span><span class="tag">&lt;/<span class="name">li</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">ol</span>&gt;</span></span><br></pre></td></tr></table></figure><h3 id="三、定义列表（其次）（definition-list）"><a href="#三、定义列表（其次）（definition-list）" class="headerlink" title="三、定义列表（其次）（definition list）"></a>三、定义列表（其次）（definition list）</h3><p><em>格式：</em></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dl</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">dt</span>&gt;</span><span class="tag">&lt;/<span class="name">dt</span>&gt;</span>   //definition title</span><br><span class="line"><span class="tag">&lt;<span class="name">dd</span>&gt;</span><span class="tag">&lt;<span class="name">dd</span>&gt;</span>    //definition description</span><br><span class="line"><span class="tag">&lt;<span class="name">dt</span>&gt;</span><span class="tag">&lt;/<span class="name">dt</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">dd</span>&gt;</span><span class="tag">&lt;<span class="name">dd</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dl</span>&gt;</span></span><br></pre></td></tr></table></figure><p><strong>注意：</strong></p><p>虽然dd可多个，但是推荐一个dt对应一个dd。</p><p><u>应用场景：</u></p><p>做网站底部的相关信息、做图文混排。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;HTML之列表标签&quot;&gt;&lt;a href=&quot;#HTML之列表标签&quot; class=&quot;headerlink&quot; title=&quot;HTML之列表标签&quot;&gt;&lt;/a&gt;HTML之列表标签&lt;/h1&gt;&lt;h2 id=&quot;列表标签的分类&quot;&gt;&lt;a href=&quot;#列表标签的分类&quot; class=&quot;headerlink&quot; title=&quot;列表标签的分类&quot;&gt;&lt;/a&gt;列表标签的分类&lt;/h2&gt;&lt;h3 id=&quot;一、无序列表（用得最多）（unordered-list）&quot;&gt;&lt;a href=&quot;#一、无序列表（用得最多）（unordered-list）&quot; class=&quot;headerlink&quot; title=&quot;一、无序列表（用得最多）（unordered list）&quot;&gt;&lt;/a&gt;一、无序列表（用得最多）（unordered list）&lt;/h3&gt;&lt;p&gt;用于一堆数据没有先后之分的情况下，自带小黑点。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/categories/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="无序列表" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8/"/>
+    
+      <category term="有序列表" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8/%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8/"/>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/tags/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="无序列表" scheme="http://yoursite.com/tags/%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8/"/>
+    
+      <category term="有序列表" scheme="http://yoursite.com/tags/%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML之标签详解二</title>
+    <link href="http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E6%A0%87%E7%AD%BE%E8%AF%A6%E8%A7%A3%E4%BA%8C/"/>
+    <id>http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E6%A0%87%E7%AD%BE%E8%AF%A6%E8%A7%A3%E4%BA%8C/</id>
+    <published>2020-02-18T09:07:17.000Z</published>
+    <updated>2020-02-18T09:33:14.659Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HTML之标签详解二"><a href="#HTML之标签详解二" class="headerlink" title="HTML之标签详解二"></a>HTML之标签详解二</h1><h2 id="1、base标签"><a href="#1、base标签" class="headerlink" title="1、base标签"></a>1、base标签</h2><p>专门用来统一指定当前网页所有超链接（a标签）的打开形式，必须放在head标签里面。如果有个别超链接需要和统一打开方式不同，则单独设置target属性。</p><a id="more"></a><h2 id="2、假链接"><a href="#2、假链接" class="headerlink" title="2、假链接"></a>2、假链接</h2><p>点击之后不会跳转的链接。</p><p>存在的意义：在企业开发前期，其它界面都还没有写出来，那么我们就不知道应该跳转到什么地方，所以就只能使用假链接来代替。</p><p>格式：</p><ol><li><code>&lt;a href=&quot;#&quot;&gt;</code>：点击完会自动回到网页顶部（例子：点击回到顶部经常用这个）</li><li><code>&lt;a href=&quot;javascript&quot;&gt;</code>：点击完不会自动回到网页顶部</li></ol><h2 id="3、锚点"><a href="#3、锚点" class="headerlink" title="3、锚点"></a>3、锚点</h2><p>点击跳转到同一个页面的某一个位置。（效果参照百度百科）</p><p><strong><em>实现方法：</em></strong>（分为两步走）</p><ol><li><p>给目标位置的标签添加一个<strong>id属性</strong>，然后指定一个独一无二的值。</p><p><code>&lt;h2 id=&quot;center&quot;&gt;&lt;/h2&gt;</code></p></li><li><p>告诉a标签你需要跳转到的目标标签对应的独一无二的<strong>id号</strong>是多少。</p><p><code>&lt;a href=&quot;#center&quot;&gt;&lt;/a&gt;</code></p></li></ol><p><strong>注意点：</strong></p><ol><li>通过a标签跳转到当前指定的位置，是没有过度动画的，是直接一下子就跳转到了指定的位置。</li><li>a标签除了可以跳转到当前页面的指定位置以外，还可以再跳转到其它界面的时候直接跳转到其它界面的指定位置。</li></ol><p>例子：<code>&lt;h2 id=&quot;bottom&quot;&gt;&lt;/h2&gt;</code> ——<code>&lt;a href=&quot;01-锚点测试界面.html#bottom&quot;&lt;/a&gt;</code></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;HTML之标签详解二&quot;&gt;&lt;a href=&quot;#HTML之标签详解二&quot; class=&quot;headerlink&quot; title=&quot;HTML之标签详解二&quot;&gt;&lt;/a&gt;HTML之标签详解二&lt;/h1&gt;&lt;h2 id=&quot;1、base标签&quot;&gt;&lt;a href=&quot;#1、base标签&quot; class=&quot;headerlink&quot; title=&quot;1、base标签&quot;&gt;&lt;/a&gt;1、base标签&lt;/h2&gt;&lt;p&gt;专门用来统一指定当前网页所有超链接（a标签）的打开形式，必须放在head标签里面。如果有个别超链接需要和统一打开方式不同，则单独设置target属性。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/categories/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="锚点" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/%E9%94%9A%E7%82%B9/"/>
+    
+      <category term="base标签" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/%E9%94%9A%E7%82%B9/base%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="假链接" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/%E9%94%9A%E7%82%B9/base%E6%A0%87%E7%AD%BE/%E5%81%87%E9%93%BE%E6%8E%A5/"/>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/tags/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="锚点" scheme="http://yoursite.com/tags/%E9%94%9A%E7%82%B9/"/>
+    
+      <category term="base标签" scheme="http://yoursite.com/tags/base%E6%A0%87%E7%AD%BE/"/>
+    
+      <category term="假链接" scheme="http://yoursite.com/tags/%E5%81%87%E9%93%BE%E6%8E%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML之标签详解一</title>
+    <link href="http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E6%A0%87%E7%AD%BE%E8%AF%A6%E8%A7%A3%E4%B8%80/"/>
+    <id>http://yoursite.com/2020/02/18/HTML%E4%B9%8B%E6%A0%87%E7%AD%BE%E8%AF%A6%E8%A7%A3%E4%B8%80/</id>
+    <published>2020-02-18T07:42:52.000Z</published>
+    <updated>2020-02-18T09:32:32.199Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HTML之标签详解一"><a href="#HTML之标签详解一" class="headerlink" title="HTML之标签详解一"></a>HTML之标签详解一</h1><h2 id="1、标题标签"><a href="#1、标题标签" class="headerlink" title="1、标题标签"></a>1、标题标签</h2><p>标题标签是通过 <code>&lt;h1&gt;</code>-<code>&lt;h6&gt;</code> 等标签进行定义的。</p><p><code>&lt;h1&gt;</code> 定义最大的标题，<code>&lt;h6&gt;</code> 定义最小的标题。</p><a id="more"></a><p>一个页面中只能出现一个h1标签。</p><h2 id="2、分割线"><a href="#2、分割线" class="headerlink" title="2、分割线"></a>2、分割线</h2><p>格式：<code>&lt;hr /&gt;</code></p><p>有些人会疑惑，是<code>&lt;hr&gt;</code> 还是<code>&lt;hr /&gt;</code>呢?解释一下，</p><p>在做前段开发的时候，按照高级开发工具的提示来写即可。</p><h2 id="3、img标签"><a href="#3、img标签" class="headerlink" title="3、img标签"></a>3、img标签</h2><p>格式：<code>&lt;img src=&quot;&quot;&gt;</code></p><p>除了默认的src属性，其实它还有其他属性：</p><ul><li>width和height（如果没有设置，系统会按照图片的默认大小显示出来。如果设置了宽高，则可能会变形。如果不想图片变形，则设置宽高其中一个即可。）</li><li>title（用于告诉浏览器，当鼠标悬停在图片上时，弹出的描述框中显示什么内容。） </li><li>alt（用于告诉浏览器，当需要显示的图片找不到时显示什么内容。）</li></ul><p><strong>注意：</strong></p><p>img标签的路径问题：有两种方式。</p><p><strong><em>第一种：</em></strong>相对路径</p><p>解释：每次从.html文件所在的文件夹开始查找。它有三种情况：同级、下级和上级。</p><p>1.1——同级</p><p>图片和.html文件存储在同一个文件夹中</p><p>格式：src=”aa.jpg”</p><p>含义：在.html文件所在的文件夹中查找名称叫做aa.jpg的图片。</p><p>1.2——下级</p><p>存储图片的文件夹和.html文件在同一个文件夹中。</p><p>格式：src=”images/aa.jpg”</p><p>含义：在.html文件所在的文件夹中查找名称叫做images的文件夹，然后在images文件所在的文件夹中查找名称叫做aa.jpg的图片。</p><p>1.3——上级</p><p>存储图片的位置和存储代码的文件夹在同一个文件夹中。</p><p>格式：src=”../aa.jpg”，其中<code>../</code>代表从当前的位置找到上一级文件夹。</p><p>含义：在.html文件所在的文件夹中找到这个文件夹的上一级文件夹，然后再在上一级文件夹中找到名称叫做aa.jpg的图片。</p><p><strong><em>第二种：</em></strong>绝对路径（仅作了解）</p><p>解释：每次都从指定的盘符开始查找。</p><p>（路径不要出现中文，否则可能出现位置问题。相对路径不能跨盘符。 企业开发中如果需要编写路径，统一使用反斜杠/，不要用正斜杠\。）</p><h2 id="4、br标签"><a href="#4、br标签" class="headerlink" title="4、br标签"></a>4、br标签</h2><p>作用：换行</p><p>格式：<code>&lt;br&gt;</code></p><p><strong>注意：</strong>多个br标签可以连续使用，使用了多少个br标签就会换多少行。企业开发很少使用它，一般用在这一段还没有描述完中途换行的情况下。</p><h2 id="5、a标签"><a href="#5、a标签" class="headerlink" title="5、a标签"></a>5、a标签</h2><p>作用：用于控制页面与页面之间跳转的。</p><p>格式：<code>&lt;a href=&quot;指定需要跳转的目标界面&quot;&gt;需要展现给用户查看的内容&lt;/a&gt;</code></p><p><strong>注意：</strong></p><ul><li><p>它能让文字点击跳转也能让图片点击跳转。</p></li><li><p>一个a标签必须有一个href属性，否则不知道跳转到哪儿去。href属性必须在地址前面加上http://或者https://。</p></li><li><p>a标签里有一个target属性，用来控制如何跳转，有两个值。</p><p>_self：当前页跳转（默认）    </p><p>_blank：新建界面跳转</p></li><li><p>a标签里还有一个title属性，和img的title属性一样的含义。</p></li></ul><h2 id="6、代码注释"><a href="#6、代码注释" class="headerlink" title="6、代码注释"></a>6、代码注释</h2><p>格式：<code>&lt;!--代码--&gt;</code>，快捷键：ctrl + /</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;HTML之标签详解一&quot;&gt;&lt;a href=&quot;#HTML之标签详解一&quot; class=&quot;headerlink&quot; title=&quot;HTML之标签详解一&quot;&gt;&lt;/a&gt;HTML之标签详解一&lt;/h1&gt;&lt;h2 id=&quot;1、标题标签&quot;&gt;&lt;a href=&quot;#1、标题标签&quot; class=&quot;headerlink&quot; title=&quot;1、标题标签&quot;&gt;&lt;/a&gt;1、标题标签&lt;/h2&gt;&lt;p&gt;标题标签是通过 &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;-&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; 等标签进行定义的。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; 定义最大的标题，&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; 定义最小的标题。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/categories/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/categories/HTML/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
+      <category term="HTML标签" scheme="http://yoursite.com/tags/HTML%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前言</title>
+    <link href="http://yoursite.com/2020/02/18/%E5%89%8D%E8%A8%80/"/>
+    <id>http://yoursite.com/2020/02/18/%E5%89%8D%E8%A8%80/</id>
+    <published>2020-02-18T07:23:43.000Z</published>
+    <updated>2020-02-18T07:31:20.275Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>谢谢你这么帅，这么漂亮还来看我的博客，在这里我将把自己的所学所得记录，也期待和你们的交流，一起学习，共同进步。我希望在可以让你们收获，也可以帮到你们。另外首次搜索需要加载<strong>3~5秒</strong>哦！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;谢谢你这么帅，这么漂亮还来看我的博客，在这里我将把自己的所学所得记录，也期待和你们的交流，一起学习，共同进步。我希望在可以让你们收获，也可以
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Webstorm常见的快捷键说明</title>
+    <link href="http://yoursite.com/2020/02/17/Webstorm%E5%B8%B8%E8%A7%81%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE%E8%AF%B4%E6%98%8E/"/>
+    <id>http://yoursite.com/2020/02/17/Webstorm%E5%B8%B8%E8%A7%81%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE%E8%AF%B4%E6%98%8E/</id>
+    <published>2020-02-17T12:23:28.000Z</published>
+    <updated>2020-02-18T07:05:08.617Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Webstorm常见的快捷键说明"><a href="#Webstorm常见的快捷键说明" class="headerlink" title="Webstorm常见的快捷键说明"></a>Webstorm常见的快捷键说明</h1><h3 id="一、快速打出标签"><a href="#一、快速打出标签" class="headerlink" title="一、快速打出标签"></a>一、快速打出标签</h3><p>例如：输入h1，再按tab键就立马出来完整标签。</p><h3 id="二、创建一个新的-html文件"><a href="#二、创建一个新的-html文件" class="headerlink" title="二、创建一个新的.html文件"></a>二、创建一个新的.html文件</h3><p>ctrl + alt + insert</p><a id="more"></a><h3 id="三、让光标移动到当前行的末尾以及最前面"><a href="#三、让光标移动到当前行的末尾以及最前面" class="headerlink" title="三、让光标移动到当前行的末尾以及最前面"></a>三、让光标移动到当前行的末尾以及最前面</h3><blockquote><p>末尾：End                      </p><blockquote><p>最前面：Home</p></blockquote></blockquote><h3 id="四、让光标在多行中闪烁"><a href="#四、让光标在多行中闪烁" class="headerlink" title="四、让光标在多行中闪烁"></a>四、让光标在多行中闪烁</h3><p>按住Alt不放，然后再按鼠标左键不放，再拖动鼠标即可。</p><h3 id="五、快速复制光标所在的那一行或者删除"><a href="#五、快速复制光标所在的那一行或者删除" class="headerlink" title="五、快速复制光标所在的那一行或者删除"></a>五、快速复制光标所在的那一行或者删除</h3><blockquote><p>复制：ctrl + d</p><blockquote><p>删除：ctrl + x</p></blockquote></blockquote><h3 id="六、让标签包裹一段内容，也就是自动在一段内容前后加上标签"><a href="#六、让标签包裹一段内容，也就是自动在一段内容前后加上标签" class="headerlink" title="六、让标签包裹一段内容，也就是自动在一段内容前后加上标签"></a>六、让标签包裹一段内容，也就是自动在一段内容前后加上标签</h3><p>ctrl + alt + t，然后回车，最后输入对应的标签即可。</p><h3 id="七、快速移动选中的代码，上下移动"><a href="#七、快速移动选中的代码，上下移动" class="headerlink" title="七、快速移动选中的代码，上下移动"></a>七、快速移动选中的代码，上下移动</h3><p>往上移动：ctrl + shift + （向上箭头）</p><p>往下移动：ctrl + shift + （向下箭头）</p><h3 id="八、快速合并和展开代码（合并和展开的是某一标签）"><a href="#八、快速合并和展开代码（合并和展开的是某一标签）" class="headerlink" title="八、快速合并和展开代码（合并和展开的是某一标签）"></a>八、快速合并和展开代码（合并和展开的是某一标签）</h3><p>合并：ctrl + ‘-’    </p><p>展开：ctrl + ‘+’</p><h3 id="九、快速合并和展开代码（合并和展开的是选中的所有标签）"><a href="#九、快速合并和展开代码（合并和展开的是选中的所有标签）" class="headerlink" title="九、快速合并和展开代码（合并和展开的是选中的所有标签）"></a>九、快速合并和展开代码（合并和展开的是选中的所有标签）</h3><p>合并：ctrl + shift + ‘-’    </p><p>展开：ctrl + shift + ‘+’</p><h3 id="十、快速新起一行"><a href="#十、快速新起一行" class="headerlink" title="十、快速新起一行"></a>十、快速新起一行</h3><p>shift + enter</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Webstorm常见的快捷键说明&quot;&gt;&lt;a href=&quot;#Webstorm常见的快捷键说明&quot; class=&quot;headerlink&quot; title=&quot;Webstorm常见的快捷键说明&quot;&gt;&lt;/a&gt;Webstorm常见的快捷键说明&lt;/h1&gt;&lt;h3 id=&quot;一、快速打出标签&quot;&gt;&lt;a href=&quot;#一、快速打出标签&quot; class=&quot;headerlink&quot; title=&quot;一、快速打出标签&quot;&gt;&lt;/a&gt;一、快速打出标签&lt;/h3&gt;&lt;p&gt;例如：输入h1，再按tab键就立马出来完整标签。&lt;/p&gt;
 &lt;h3 id=&quot;二、创建一个新的-html文件&quot;&gt;&lt;a href=&quot;#二、创建一个新的-html文件&quot; class=&quot;headerlink&quot; title=&quot;二、创建一个新的.html文件&quot;&gt;&lt;/a&gt;二、创建一个新的.html文件&lt;/h3&gt;&lt;p&gt;ctrl + alt + insert&lt;/p&gt;
     
     </summary>
@@ -38,11 +232,11 @@
       <category term="Webstorm" scheme="http://yoursite.com/categories/%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6/Webstorm/"/>
     
     
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
       <category term="webstorm" scheme="http://yoursite.com/tags/webstorm/"/>
     
       <category term="网页开发软件" scheme="http://yoursite.com/tags/%E7%BD%91%E9%A1%B5%E5%BC%80%E5%8F%91%E8%BD%AF%E4%BB%B6/"/>
-    
-      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
     
   </entry>
   
@@ -51,9 +245,9 @@
     <link href="http://yoursite.com/2020/02/16/%E5%B8%A6%E4%BD%A0%E8%B5%B0%E8%BF%9BHTML/"/>
     <id>http://yoursite.com/2020/02/16/%E5%B8%A6%E4%BD%A0%E8%B5%B0%E8%BF%9BHTML/</id>
     <published>2020-02-16T05:52:32.000Z</published>
-    <updated>2020-02-17T14:59:16.080Z</updated>
+    <updated>2020-02-18T09:47:02.041Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="带你走进HTML"><a href="#带你走进HTML" class="headerlink" title="带你走进HTML"></a>带你走进HTML</h1><p>html ，始于1993年，也叫<strong>超文本标记语言</strong>，它是给文本添加语义的，而不是样式。<a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">W3C</a>是制定html标准的组织。</p><p>通常用英文或者拼音来命名html文件。</p><p><strong>html标签</strong>分为双标签和单标签，关系有并列（同级）和嵌套（父子）。</p><a id="more"></a><p>DTD文档声明格式：每个版本规范都不一样。必须写在第一行，不区分大小写，不是标签。</p><p>html5： <code>&lt;!DOCTYPE html&gt;</code></p><p><em>格式：</em></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;meta charset&#x3D;&quot;UTF-8&quot; &#x2F;&gt;</span><br><span class="line">&lt;title&gt;&lt;&#x2F;title&gt;</span><br><span class="line">&lt;&#x2F;head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure><p>head标签的作用：用于给网站添加一些配置信息。</p><ul><li>标题，网站横栏小图标</li><li>添加网站的SEO相关的信息（指定网站的关键字/指定网站的描述信息）</li><li>外挂一些外部的css/js文件</li><li>添加一些浏览器适配相关的内容</li></ul><p><u>注意点：</u></p><ol><li><p>除了以上第一点，head标签里面大部分内容都不会显示给用户看，是给浏览器搜索引擎看的。</p></li><li><p>字符集：meta标签，放在head标签里。常见的字符集有GBK（即GB2312）（存储比较少）、UTF-8（存储了世界上所有字符）。那么企业开发中使用哪个呢？</p><ul><li><p>如果网站仅仅包含中文，使用GB2312，因为它的体积更小，访问速度更快。如果网站除了中文还包含一些其他国家的语言，使用UTF-8。</p></li><li><p>懒人推荐，不管三七二十一，一律写UTF-8即可。</p></li></ul></li></ol>]]></content>
+    <content type="html"><![CDATA[<h1 id="带你走进HTML"><a href="#带你走进HTML" class="headerlink" title="带你走进HTML"></a>带你走进HTML</h1><p>html ，始于1993年，也叫<strong>超文本标记语言</strong>，它是给文本添加语义的，而不是样式。<a href="https://www.w3school.com.cn/" target="_blank" rel="noopener">W3C</a>是制定html标准的组织。</p><p>通常用英文或者拼音来命名html文件。</p><p><strong>html标签</strong>分为双标签和单标签，关系有并列（同级）和嵌套（父子）。</p><a id="more"></a><p>DTD文档声明格式：每个版本规范都不一样。必须写在第一行，不区分大小写，不是标签。</p><p>html5： <code>&lt;!DOCTYPE html&gt;</code></p><p><em>格式：</em></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;!DOCTYPE <span class="meta-keyword">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">"UTF-8"</span> /&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">title</span>&gt;</span><span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure><p>head标签的作用：用于给网站添加一些配置信息。</p><ul><li>标题，网站横栏小图标</li><li>添加网站的SEO相关的信息（指定网站的关键字/指定网站的描述信息）</li><li>外挂一些外部的css/js文件</li><li>添加一些浏览器适配相关的内容</li></ul><p><u>注意点：</u></p><ol><li><p>除了以上第一点，head标签里面大部分内容都不会显示给用户看，是给浏览器搜索引擎看的。</p></li><li><p>字符集：meta标签，放在head标签里。常见的字符集有GBK（即GB2312）（存储比较少）、UTF-8（存储了世界上所有字符）。那么企业开发中使用哪个呢？</p><ul><li><p>如果网站仅仅包含中文，使用GB2312，因为它的体积更小，访问速度更快。如果网站除了中文还包含一些其他国家的语言，使用UTF-8。</p></li><li><p>懒人推荐，不管三七二十一，一律写UTF-8即可。</p></li></ul></li></ol>]]></content>
     
     <summary type="html">
     
@@ -78,7 +272,7 @@
     <link href="http://yoursite.com/2020/02/14/%E4%BD%BF%E7%94%A8hexo+Github%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2020/02/14/%E4%BD%BF%E7%94%A8hexo+Github%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</id>
     <published>2020-02-14T00:25:56.000Z</published>
-    <updated>2020-02-17T14:57:36.604Z</updated>
+    <updated>2020-02-18T07:06:22.840Z</updated>
     
     <content type="html"><![CDATA[<h2 id="使用hexo-Github搭建免费个人博客详细教程"><a href="#使用hexo-Github搭建免费个人博客详细教程" class="headerlink" title="使用hexo+Github搭建免费个人博客详细教程"></a>使用hexo+Github搭建免费个人博客详细教程</h2><h3 id="一、安装Git"><a href="#一、安装Git" class="headerlink" title="一、安装Git"></a>一、安装Git</h3><p>如果你电脑还没安装它，请先安装。到官网下载，网站地址：<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">https://git-scm.com/downloads</a></p><p><img src="/2020/02/14/%E4%BD%BF%E7%94%A8hexo+Github%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/git-install.png" alt></p><p>因为我自己电脑是windows，所以下的是图里圈出来的这个，大家按照自己电脑类型下载安装即可，具体安装详情可百度，基本一路next，超级简单！</p><a id="more"></a><h3 id="二、安装Node-js"><a href="#二、安装Node-js" class="headerlink" title="二、安装Node.js"></a>二、安装Node.js</h3><p>下载网址：<a href="https://nodejs.org/zh-cn/" target="_blank" rel="noopener">https://nodejs.org/zh-cn/</a></p><p><img src="/2020/02/14/%E4%BD%BF%E7%94%A8hexo+Github%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/Node.js-install.png" alt></p><p>这个安装也比较简单，安装完之后会有两个组件，一个是Node.js本身，一个是npm包资源管理器。这是搭建hexo博客必备的东西。检验Node.js安装是否成功，可打开终端输入命令：node -v，如出现其版本号，则证明安装成功。例如：</p><p><img src="/2020/02/14/%E4%BD%BF%E7%94%A8hexo+Github%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/Node.js-test.png" alt></p><h3 id="三、淘宝镜像安装cnpm"><a href="#三、淘宝镜像安装cnpm" class="headerlink" title="三、淘宝镜像安装cnpm"></a>三、淘宝镜像安装cnpm</h3><p>在终端输入命令安装：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g cnpm --registry&#x3D;https:&#x2F;&#x2F;registry.npm.taobao.org</span><br></pre></td></tr></table></figure><h3 id="四、利用cnpm全局安装hexo"><a href="#四、利用cnpm全局安装hexo" class="headerlink" title="四、利用cnpm全局安装hexo"></a>四、利用cnpm全局安装hexo</h3><p>终端输入命令：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cnpm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>接着可以用命令hexo -v验证一下是否安装成功。这样子我们就搭建好hexo博客框架了，可以开始搞事啦哈哈哈哈~</p><p>新建一个文件夹，用来存放博客目录。如果搭建博客的过程中有问题无法解决，不要慌，在网上实在找不到解决方法，那么下下策就是直接删掉这个文件夹，再重新新建一个，撸起袖子继续干就对了。（呜呜呜…刚开始作为小白的我就是删了又删）</p><p>在终端进入这个文件夹，然后初始化博客输入命令：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure><p>初始化完成之后打开所在的文件夹可以看到一些文件，解释一下：</p><ul><li>node_modules：是依赖包</li><li>public：存放的是生成的页面</li><li>scaffolds：命令生成文章等的模板</li><li>source：用命令创建的各种文章</li><li>themes：主题</li><li>_config.yml：整个博客的配置</li><li>db.json：source解析所得到的</li><li>package.json：项目所需模块项目的配置信息</li></ul><p>接着我们启动：<code>hexo s</code>  网址上输入<a href="localhst:4000">localhst:4000</a>可预览博客的页面。</p><p>做好这些操作之后我们就可以做博客的各种配置了。</p><p><strong>注意：</strong>平时我们改好配置后要预览博客页面，需要在终端输入几个命令，依次是：</p><ol><li>hexo clean</li><li>hexo g   （本地生成静态文件）</li><li>hexo s</li></ol><h3 id="四、将博客托管到Github上"><a href="#四、将博客托管到Github上" class="headerlink" title="四、将博客托管到Github上"></a>四、将博客托管到Github上</h3><ol><li><p>在GitHub上创建以你的<strong>GitHub用户名（注意不是昵称）</strong>命名的项目，例如我的GitHub用户名为 <a href="https://github.com/Nanny667" target="_blank" rel="noopener">Nanny667</a>那么我就创建一个名字为：<code>Nanny667.github.io</code> 的项目。如下：<img src="/2020/02/14/%E4%BD%BF%E7%94%A8hexo+Github%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/github.png" alt></p></li><li><p>在新建的博客文件夹下安装git部署插件：<code>cnpm install --save hexo-deployer-git</code></p></li><li><p>打开刚才新建的博客文件夹（存放hexo模板的），打开_config.yml配置文件，找到deploy，进行如下配置，写完保存。注意！！！要有空格，格式不能出错。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: https:&#x2F;&#x2F;github.com&#x2F;Nanny667&#x2F;Nanny667.github.io.git   &#x2F;&#x2F;将地址换成自己的</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure></li><li><p>最后部署到远端：<code>hexo d</code></p></li><li><p>这样我们就能直接输入：<a href="https://Nanny667.github.io/" target="_blank" rel="noopener">https://Nanny667.github.io/</a>，在浏览器访问我们自己的博客啦！</p></li></ol>]]></content>
     
