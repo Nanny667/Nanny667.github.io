@@ -8,6 +8,8 @@
 <p><em>表单的格式：</em></p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">form</span>&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="name">表单元素</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">form</span>&gt;</span></span><br></pre></td></tr></table></figure>
 
+<a id="more"></a>
+
 <h3 id="常见的表单元素："><a href="#常见的表单元素：" class="headerlink" title="常见的表单元素："></a>常见的表单元素：</h3><p><u>input标签：</u>它有一个type属性，这个属性有很多类型的取值，取值的不同就决定了input标签的功能和外观。</p>
 <ol>
 <li>明文输入框：</li>
